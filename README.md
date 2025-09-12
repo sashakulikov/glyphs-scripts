@@ -21,4 +21,4 @@ Currently included:
 
 - **Show Glyphs with Component**  
   Finds all glyphs containing a specific component and opens them in a new tab.  
-  **How to use:** Enter the component name in the dialog, press **OK** or **Enter**, and the matching glyphs will appear for review.
+  **How to use:** Enter the component name in the dialog, press **OK** or **Enter**, and the matching glyphs will appear.
