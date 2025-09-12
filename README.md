@@ -17,7 +17,6 @@ After adding or updating scripts:
 
 ## Included Scripts (To be added)
 
-This section will list all scripts in this repository as they are added.  
 Currently included:
 
 - **Show Glyphs with Component**  
