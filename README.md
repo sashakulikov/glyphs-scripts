@@ -14,7 +14,6 @@ After adding or updating scripts:
 2. In the menu bar, go to **Help** → type **Reload Scripts** → click it.  
    This will update the scripts menu so your new scripts appear.
 
----
 
 ## Included Scripts (To be added)
 
