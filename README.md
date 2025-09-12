@@ -23,4 +23,4 @@ Currently included:
   Finds all glyphs containing a specific component and opens them in a new tab.  
   **How to use:** Enter the component name in the dialog, press **OK** or **Enter**, and the matching glyphs will appear.
 
-Last update: 12 Sept 2025
+> Last update: 12 Sept 2025
