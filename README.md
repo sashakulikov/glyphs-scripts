@@ -35,7 +35,7 @@ Currently included:
     - **Shortcut**: **⌘⌥C**  
   - Press *Add*.  
 
-  Now you can run the script instantly with your shortcut.
+  Now you can run the script instantly with a hotkey.
 
 ---
 
