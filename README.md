@@ -24,17 +24,16 @@ Currently included:
   **How to use:** Enter the component name in the dialog, press **OK** or **Enter**, and the matching glyphs will appear.
 
 - **Duplicate Current Layer**  
-  Duplicates the currently selected layer (same as pressing the **+** button in the sidebar).  
-  The new layer is timestamped in the format: `19. Sep 25 at 16:23`.  
+  Duplicates the currently selected layer with a hotkey **⌘⌥C**.  
 
   **How to use:**  
   Assign a macOS shortcut for fast access:  
-  - Open **System Settings → Keyboard → Shortcuts → App Shortcuts**.  
+  - Open *System Settings → Keyboard → Shortcuts → App Shortcuts*.  
   - Add a new shortcut:  
     - **Application**: *Glyphs*  
     - **Menu Title**: `Duplicate Current Layer`  
     - **Shortcut**: **⌘⌥C**  
-  - Press **Add**.  
+  - Press *Add*.  
 
   Now you can run the script instantly with your shortcut.
 
