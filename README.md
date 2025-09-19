@@ -15,7 +15,7 @@ After adding or updating scripts:
    This will update the scripts menu so your newly added scripts appear.
 
 
-## Included Scripts (To be added) 
+## Included Scripts
 
 Currently included:
 
@@ -23,4 +23,21 @@ Currently included:
   Finds all glyphs containing a specific component and opens them in a new tab.  
   **How to use:** Enter the component name in the dialog, press **OK** or **Enter**, and the matching glyphs will appear.
 
-> Last update: 12 Sept 2025
+- **Duplicate Current Layer**  
+  Duplicates the currently selected layer (same as pressing the **+** button in the sidebar).  
+  The new layer is timestamped in the format: `19. Sep 25 at 16:23`.  
+
+  **How to use:**  
+  Assign a macOS shortcut for fast access:  
+  - Open **System Settings → Keyboard → Shortcuts → App Shortcuts**.  
+  - Add a new shortcut:  
+    - **Application**: *Glyphs*  
+    - **Menu Title**: `Duplicate Current Layer`  
+    - **Shortcut**: **⌘⌥C**  
+  - Press **Add**.  
+
+  Now you can run the script instantly with your shortcut.
+
+---
+
+> Last update: 20 Sep 2025
