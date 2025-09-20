@@ -32,7 +32,7 @@ Currently included:
   - Add a new shortcut:  
     - **Application**: *Glyphs*  
     - **Menu Title**: `Duplicate Current Layer`  
-    - **Shortcut**: **⌘⌥C**  
+    - **Shortcut**: `⌘⌥C**` 
   - Press *Add*.  
 
   Now you can run the script instantly with a hotkey.
