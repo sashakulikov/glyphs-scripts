@@ -22,7 +22,4 @@ duplicate.name = timestamp
 # Insert new layer
 glyph.layers.append(duplicate)
 
-# Select the new layer
-font.selectedLayers[0] = duplicate
-
 print(f"Duplicated layer in glyph: {glyph.name} → {duplicate.name}")
